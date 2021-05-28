@@ -1,0 +1,27 @@
+[
+  {
+    "name" :"OA办公系统",
+    "icon":"/mis/img/001.jpg",
+    "open":false,
+    "children":[
+      {"name":"客户管理"},
+      {
+        "name":"项目管理",
+        "children":[
+          {"name":"添加项目"},
+          {"name":"需求分析"},
+          {"name":"模块管理"},
+          {"name":"附件管理"}
+        ]
+      },
+      {
+        "name":"日常办公",
+        "children":[
+          {"name":"分配任务"},
+          {"name":"我的任务"},
+          {"name":"通知公告"}
+        ]
+      }
+    ]
+  }
+]
